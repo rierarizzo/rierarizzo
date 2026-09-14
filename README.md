@@ -2,6 +2,8 @@
 
 ###
 
+![Banner Image](/img/bio.gif "Typing on a keyboard. Just another animated gif")
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=aws" height="60" alt="amazonwebservices logo"  />
   <img width="12" />
