@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Keneth Riera</h1>
 
 <p align="center">
-  Software Engineer focused on Data Engineering, backend systems, and cloud infrastructure.
+  Software Engineer with experience in backend development and cloud infrastructure, currently focused on Data Engineering.
 </p>
 
 <p align="center">
@@ -10,18 +10,16 @@
 
 ## About me
 
-I'm a Software Engineer focused on **Data Engineering**, with experience in backend development, cloud infrastructure, and data-oriented systems.
+I'm a Software Engineer with a background in **backend development and cloud infrastructure**, currently expanding my experience in **Data Engineering**.
 
-I work on building reliable data pipelines, designing relational data models, automating workflows, and developing scalable applications and services.
+I enjoy building data pipelines, working with relational databases, automating workflows, and designing reliable backend systems.
 
 * Data pipelines and automation with **Python** and **SQL**
 * Data modeling and relational databases with **PostgreSQL**
-* Workflow orchestration with **Apache Airflow**
-* Data processing with **Apache Spark**
 * Cloud infrastructure and services with **AWS**
 * Containerized environments with **Docker**
 * Backend development with **Java** and **Spring Boot**
-* Additional development experience with **Go**
+* Currently learning and building projects with **Apache Airflow** and data processing technologies
 
 ## Tech Stack
 
@@ -37,16 +35,12 @@ I work on building reliable data pipelines, designing relational data models, au
   <img src="https://skillicons.dev/icons?i=java" height="55" alt="Java" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=spring" height="55" alt="Spring Boot" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=kafka" height="55" alt="Apache Kafka" />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=terraform" height="55" alt="Terraform" />
 </div>
 
 ## Core Areas
 
 <p align="center">
-  Data Pipelines · ETL/ELT · Data Modeling · Workflow Orchestration · Distributed Processing · Cloud Infrastructure
+  Data Pipelines · ETL/ELT · Data Modeling · Backend Systems · Cloud Infrastructure · Workflow Automation
 </p>
 
 ## Connect
